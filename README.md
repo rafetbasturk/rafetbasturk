@@ -23,5 +23,5 @@ ___
 ___
 ## Github Stats
 
-[![Rafet's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafetbasturk)](https://github.com/anuraghazra/github-readme-stats)
-[![Rafet's GitHub stats](https://github-readme-stats-techdevrafet.vercel.app/api/top-langs/?username=rafetbasturk)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafetbasturk)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafet's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafetbasturk)](https://github.com/anuraghazra/github-readme-stats)
