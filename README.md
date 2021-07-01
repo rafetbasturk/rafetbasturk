@@ -2,7 +2,7 @@
 
 *__This is the very beginning of my journey to Full-Stack.__*
 
-* I have learned some HTML5, CSS3, Bootstrap, JavaScript, JQuery, NodeJS, NPM, ExpressJS, EJS, SASS, Tailwind, Git, Babel, Webpack till now.
+* I have learned some HTML5, CSS3, Bootstrap, Git, JavaScript, JQuery, SASS, Tailwind, NodeJS, NPM, ExpressJS, EJS till now.
 * I am currently learning React. 🧐
 * I am looking to collaborate with other coders. 👯
 
