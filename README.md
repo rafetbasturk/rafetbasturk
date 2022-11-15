@@ -28,8 +28,11 @@ ___
 
 ## My Projects
 
-- [en-ka Webpage][https://en-ka-webpage-react.netlify.app/]
-- [REST Countries API with color theme switcher][https://rafetbasturk-rest-countries.netlify.app/]
+- [The Odin Project - Inventory Application][https://odin-express-inventory.onrender.com/products]
+- [The Odin Project - Where's Waldo (A Photo Tagging App)][https://odin-waldo.vercel.app/]
+- [The Odin Project - Shopping Cart][https://rafet-shopping-cart.netlify.app/]
+- [The Odin Project - Memory Card][https://rafet-memory-card.netlify.app/]
+- [The Odin Project - CV Application][https://rafet-cv.netlify.app/]
 - [The Odin Project - Battleship][https://rafetbattleship.netlify.app/]
 - [The Odin Project - The Weather App][https://rafetweatherapp.netlify.app/]
 - [The Odin Project - To Do List][https://rafetbasturk.github.io/odin-todo/]
@@ -40,6 +43,7 @@ ___
 - [The Odin Project - Rock Scissors Paper][https://rafetbasturk.github.io/rock-paper-scissors/]
 - [The Odin Project - Sign-up Form][https://rafetbasturk.github.io/odin-signup/]
 - [The Odin Project - Landing Page][https://rafetbasturk.github.io/odin-landing_page/]
+- [REST Countries API with color theme switcher][https://rafetbasturk-rest-countries.netlify.app/]
 - [Crowdfunding product page][https://rafetbasturk.github.io/c36/]
 - [Loopstudios landing page][https://c35.vercel.app/]
 - [Blogr landing page][https://rafetbasturk.github.io/c34/]
