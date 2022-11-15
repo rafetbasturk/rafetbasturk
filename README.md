@@ -48,8 +48,6 @@ ___
 - [Loopstudios landing page][https://c35.vercel.app/]
 - [Blogr landing page][https://rafetbasturk.github.io/c34/]
 - [Interactive pricing component][https://c33.vercel.app/]
-- [URL shortening API landing page][https://glacial-earth-61110.herokuapp.com/]
-- [IP Address Tracker][https://guarded-forest-81167.herokuapp.com/]
 - [Manage landing page][https://c30-ten.vercel.app/]
 - [Job listings with filtering][https://c29-ochre.vercel.app/]
 - [Bookmark landing page][https://c28-git-main-rafetbasturk.vercel.app/]
