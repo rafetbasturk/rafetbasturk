@@ -39,7 +39,7 @@ ___
 - [The Odin Project - The Weather App][https://rafetweatherapp.netlify.app/]
 - [The Odin Project - To Do List][https://rafetbasturk.github.io/odin-todo/]
 - [The Odin Project - Tic Tac Toe][https://rafetbasturk.github.io/odin-tictactoe/]
-- [The Odin Project - Library][https://rafetbasturk.github.io/odin-library/]
+- [The Odin Project - Library][https://stalwart-mochi-55daac.netlify.app/]
 - [The Odin Project - Calculator][https://rafetbasturk.github.io/odin-calculator/]
 - [The Odin Project - Etch-a-sketch][https://rafetbasturk.github.io/etch-a-sketch/]
 - [The Odin Project - Rock Scissors Paper][https://rafetbasturk.github.io/rock-paper-scissors/]
